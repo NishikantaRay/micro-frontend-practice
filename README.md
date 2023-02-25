@@ -17,3 +17,4 @@ Improved user experience: Microfrontend architecture can improve user experience
 
 Flexibility: Microfrontends can be developed using different technologies, making it easier to adopt new frameworks and tools or to migrate to new technology stacks without affecting the entire application.
 
+<img width="892" alt="image" src="https://user-images.githubusercontent.com/62615392/221339104-71c15a51-e760-45d5-b7ed-8516b89d1987.png">
